@@ -49,4 +49,6 @@ class Solution {
 
 ### What Is New in MySQL 8.0 （mysql 8.0 添加的新功能）
 
-1.Data dictionary.
+#### 1.Data dictionary.
+
+#### 2.Atomic data definition statements (Atomic DDL).
