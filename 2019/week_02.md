@@ -93,7 +93,7 @@ class Solution {
 
 #### 22.Configuration.
 
-#### [more ...]https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html
+[more]https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html
 
 
 
