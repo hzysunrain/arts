@@ -51,49 +51,48 @@ class Solution {
 
 #### 1.Data dictionary.
      数据字典
-
 #### 2.Atomic data definition statements (Atomic DDL).
      原子数据定义语句
 #### 3.Upgrade procedure.
      升级过程
 #### 4.Security and account management
-
+     安全和账号管理
 #### 5.Resource management.
-
+     资源管理
 #### 6.Table encryption management.
-
+     表加密管理
 #### 7.InnoDB enhancements. 
-
+     InnoDB 引擎增强
 #### 8.Character set support. 
-
+     字符集支持
 #### 9.JSON enhancements. 
-
+     json格式字段增强
 #### 10.Data type support.  
-
+     数据类型支持
 #### 11.Optimizer.
-
+     优化
 #### 12.Common table expressions.
-
+     通用表表达式
 #### 13.Window functions. 
-
+     窗口函数， 
 #### 14.Lateral derived tables. 
-
+     侧向派生表
 #### 15.Aliases in single-table DELETE statements. 
-
+     单表删除语句中的使用别名
 #### 16.Regular expression support. 
-
+     正则表达式支持
 #### 17.Internal temporary tables. 
-
+     内部临时表
 #### 18.Logging
-
+     日志
 #### 19.Backup lock. 
-
+     备用锁
 #### 20.Replication
-
+     主从复制
 #### 21.Connection management. 
-
+     连接管理
 #### 22.Configuration.
-
+     配置项
 [more]https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html
 
 
