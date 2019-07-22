@@ -52,3 +52,48 @@ class Solution {
 #### 1.Data dictionary.
 
 #### 2.Atomic data definition statements (Atomic DDL).
+
+#### 3.Upgrade procedure.
+
+#### 4.Security and account management
+
+#### 5.Resource management.
+
+#### 6.Table encryption management.
+
+#### 7.InnoDB enhancements. 
+
+#### 8.Character set support. 
+
+#### 9.JSON enhancements. 
+
+#### 10.Data type support.  
+
+#### 11.Optimizer.
+
+#### 12.Common table expressions.
+
+#### 13.Window functions. 
+
+#### 14.Lateral derived tables. 
+
+#### 15.Aliases in single-table DELETE statements. 
+
+#### 16.Regular expression support. 
+
+#### 17.Internal temporary tables. 
+
+#### 18.Logging
+
+#### 19.Backup lock. 
+
+#### 20.Replication
+
+#### 21.Connection management. 
+
+#### 22.Configuration.
+
+#### [more ...]https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html
+
+
+
