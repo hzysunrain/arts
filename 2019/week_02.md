@@ -95,7 +95,7 @@ class Solution {
      配置项
 [more]https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html
 
-### 3. Tip
+## 3. Tip
 
 #### [缓存架构]
 
@@ -108,9 +108,9 @@ class Solution {
     参考：
     [链接]https://www.w3cschool.cn/architectroad/architectroad-cache-architecture-design.html
 
-### 4. Share
+## 4. Share
 
-#### 【GMTC2019分享记录｜AR在百度小游戏中的探索与实践】
+### 【GMTC2019分享记录｜AR在百度小游戏中的探索与实践】
 
     [文章链接]https://baijiahao.baidu.com/s?id=1637560533467534453&wfr=spider&for=pc
     
