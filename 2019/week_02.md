@@ -43,5 +43,10 @@ class Solution {
     }
 
 }
+```
 
-## 
+## 2. Review
+
+### What Is New in MySQL 8.0 （mysql 8.0 添加的新功能）
+
+1.Data dictionary.
