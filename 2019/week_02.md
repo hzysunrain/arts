@@ -97,8 +97,24 @@ class Solution {
 
 ### 3. Tip
 
+#### [缓存架构]
+
+    使用双淘汰法是一个不错的选择
+    
+    1. 先淘汰缓存
+    2. 写数据库
+    3. 1s后，再淘汰缓存(采用消息队列来异步淘汰缓存)
+    
+    参考：
+    [链接]https://www.w3cschool.cn/architectroad/architectroad-cache-architecture-design.html
 
 ### 4. Share
 
+#### 【GMTC2019分享记录｜AR在百度小游戏中的探索与实践】
+
+    [文章链接]https://baijiahao.baidu.com/s?id=1637560533467534453&wfr=spider&for=pc
+    
+    AR游戏，下一代游戏风口！！！
+    
 
 
