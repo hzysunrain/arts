@@ -62,6 +62,7 @@ class Solution {
 ## 2. Review
 #### [curl exercises]
    curl 是用于发起http请求的工具，能够很好地测试服务和api接口。
+   
    [原文链接]https://jvns.ca/blog/2019/08/27/curl-exercises/
 
 ## 3. Tip
@@ -104,6 +105,7 @@ class Solution {
    + 使用 strace （但不适合在生产环境中使用）
    
     ```
+    
     strace -cfp $(pidof mysqld)
     ```
     
@@ -121,6 +123,7 @@ class Solution {
    快速：每个实例每秒支持一千次写操作。
    
    可信：使用Raft算法充分实现了分布式。
+   
   [文章链接]https://www.jianshu.com/p/3bd041807974
 
 
