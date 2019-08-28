@@ -102,14 +102,14 @@ class Solution {
     ```
     SHOW TABLES FROM INFORMATION_SCHEMA LIKE '%_STATISTICS'
     ```
-   + 使用 strace （但不适合在生产环境中使用）
-   
-    ```
     
+   + 使用 strace （但不适合在生产环境中使用）
+
+    ```
     strace -cfp $(pidof mysqld)
     ```
-    
-    + pt-ioprofile （生成I/O活动的剖析报告）
+     
+   + pt-ioprofile （生成I/O活动的剖析报告）
     
 ## 4. Share
 
